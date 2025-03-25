@@ -3,7 +3,7 @@ pipeline {
 
     // 环境变量（全局配置）
     environment {
-        PROJECT_DIR = "router_auto_test"  // 项目目录名
+        PROJECT_DIR = "test_1_pytest_jenkins"  // 项目目录名
         PYTHON_PATH = "/usr/bin/python3"  // Python解释器路径
     }
 
